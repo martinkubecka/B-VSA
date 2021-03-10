@@ -5,32 +5,76 @@
 ---
 ## Cvičenia
 
-[1. týždeň]()
+[1. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/1.%20t%C3%BD%C5%BEde%C5%88/notes-1.md)
 - Práca s prostredím NetBeans
 
 
-[2. týždeň]()
+[2. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/2.%20t%C3%BD%C5%BEde%C5%88/notes-2.md)
 - Vytvorenie DB tabuľky z entitnej triedy, 
 - Namapovanie existujúcej entitnej triedy na existujúcu databazovú tabuľku
 
 
-[3. týždeň]()
+[3. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/3.%20t%C3%BD%C5%BEde%C5%88/notes-3.md)
 - Named query
 - Metódy entity managera
 - JPA kontroler
 - Swing DB aplikácia
 
+4\. týždeň
+- Zápočet
+
+[5. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/5.%20t%C3%BD%C5%BEde%C5%88/notes-5.md)
+
+[6. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/6.%20t%C3%BD%C5%BEde%C5%88/notes-6.md)
+
+[7. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/7.%20t%C3%BD%C5%BEde%C5%88/notes-7.md)
+
+[8. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/8.%20t%C3%BD%C5%BEde%C5%88/notes-8.md)
+
+[9. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/9.%20t%C3%BD%C5%BEde%C5%88/notes-9.md)
+
+[10. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/10.%20t%C3%BD%C5%BEde%C5%88/notes-10.md)
+
+[11. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/11.%20t%C3%BD%C5%BEde%C5%88/notes-11.md)
+
+[12. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/12.%20t%C3%BD%C5%BEde%C5%88/notes-12.md)
+
 ---
 ## Prednášky
 [1. týždeň](http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/P1)
+- Úvod do JDBC a JPA
+
+
 [2. týždeň](http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/P2)
+- Entitné triedy, metódy find, persist, JPA anotácie
+
 [3. týždeň](http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/P3)
+- Metódy entity managera, JPA kontroler
+
 [4. týždeň](http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/P4)
+- Jednoduché asociácie
+
 [5. týždeň](http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/P5)
+- Obojsmerné asociácie
+
 [6. týždeň](http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/P6)
+- Asociácie (dokončenie)
+
 [7. týždeň](http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/P7)
+- JPA dedičnosť
+
 [8. týždeň](http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/P8)
+- REST (úvod)
+
 [9. týždeň](http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/P9)
+-   REST s viacerýmí zdrojmi
+
 [10. týždeň](http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/P10) a [REST+JPA](http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/P10-RESTaJPA)
+-   REST application/xml
+
 [11. týždeň](http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/P11)
+- JAXB, SAX
+
+
 [12. týždeň](https://dzone.com/articles/hypermedia-support-in-jax-rs-20)
+- REST+JPA
