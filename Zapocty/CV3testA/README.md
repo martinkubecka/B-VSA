@@ -1,8 +1,19 @@
-Zápočet z roku 2018 dostupný na: http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/CV3testA
+## Otestované unit testami 
+```
+Results :
+
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+```
+
+---
+
+## Zápočet z roku 2018 
+-dostupný na: http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/CV3testA
 
 Príklad dat na testovanie: http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/CV3testA?action=AttachFile&do=view&target=data.csv
 
-```Implementačná úloha
+```
+Implementačná úloha
 
 Vytvorte nový java aplication projekt s názvom uloha1.
 Pozn. Netbeans vám v projekte vytvorí balík uloha1 a v ňom triedu Uloha1.
