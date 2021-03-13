@@ -78,3 +78,6 @@
 
 [12. týždeň](https://dzone.com/articles/hypermedia-support-in-jax-rs-20)
 - REST+JPA
+
+---
+Riešenie zápočtu 2018 [skupina A](https://github.com/martinkubecka/VSA/tree/main/Zapocty/CV3testA)  by [benzorobenzo](https://github.com/georgeHeishi)

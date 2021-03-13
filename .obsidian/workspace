@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1dfdce7574fba859",
+        "id": "f175eb86ddb6fe4a",
         "type": "leaf",
         "active": true,
         "state": {
@@ -14,10 +14,10 @@
             "mode": "source"
           }
         },
-        "group": "bd0112150307ad69"
+        "group": "556b77edb71f60ff"
       },
       {
-        "id": "f175eb86ddb6fe4a",
+        "id": "3dac6344bcc1f00d",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -26,7 +26,7 @@
             "mode": "preview"
           }
         },
-        "group": "bd0112150307ad69"
+        "group": "556b77edb71f60ff"
       }
     ],
     "direction": "vertical"
@@ -100,14 +100,14 @@
   },
   "lastOpenFiles": [
     "README.md",
+    "Cvičenia/1. týždeň/notes-1.md",
+    "Untitled.md",
     "Cvičenia/12. týždeň/Untitled.md",
     "Cvičenia/11. týždeň/Untitled.md",
     "Cvičenia/10. týždeň/Untitled.md",
     "Cvičenia/9. týždeň/Untitled.md",
     "Cvičenia/8. týždeň/Untitled.md",
     "Cvičenia/7. týždeň/Untitled.md",
-    "Cvičenia/6. týždeň/Untitled.md",
-    "Cvičenia/5. týždeň/note-5.md",
-    "Cvičenia/3. týždeň/note-.md"
+    "Cvičenia/6. týždeň/Untitled.md"
   ]
 }
