@@ -80,12 +80,14 @@
 - REST+JPA
 
 ---
+## Staré zápočty
+
 Riešenie zápočtu 2018 [skupina A](https://github.com/martinkubecka/B-VSA/tree/main/Z%C3%A1po%C4%8Dty/CV3testA) by [benzorobenzo](https://github.com/georgeHeishi)
 
 
 ---
-## NetBeans 8.1 Dracule Theme
+## NetBeans 8.1 Darcula Theme
 
-Download [here](https://stackoverflow.com/questions/21042861/dark-theme-in-netbeans-7-or-8)
+Download [here](http://plugins.netbeans.org/plugin/62424/darcula-laf-for-netbeans)
 
 NetBeans -> Tools -> Plugins -> Downloaded -> Add Plugins... -> Open -> Install -> Restart IDE
