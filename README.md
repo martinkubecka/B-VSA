@@ -1,4 +1,4 @@
-# Vývoj softvérových aplikácií
+# Vývoj Softvérových Aplikácií
 
 [Homepage](https://uim.fei.stuba.sk/predmet/b-vsa/) | [Wiki](http://www.kaivt.elf.stuba.sk/Predmety/B-VSA) | [Youtube](https://youtube.com/playlist?list=PLQfMtPjiSM4s3W3Tixaj8Hirw_njwUelh)
 
@@ -80,4 +80,12 @@
 - REST+JPA
 
 ---
-Riešenie zápočtu 2018 [skupina A](https://github.com/martinkubecka/VSA/tree/main/Zapocty/CV3testA)  by [benzorobenzo](https://github.com/georgeHeishi)
+Riešenie zápočtu 2018 [skupina A](https://github.com/martinkubecka/B-VSA/tree/main/Z%C3%A1po%C4%8Dty/CV3testA) by [benzorobenzo](https://github.com/georgeHeishi)
+
+
+---
+## NetBeans 8.1 Dracule Theme
+
+Download [here](https://stackoverflow.com/questions/21042861/dark-theme-in-netbeans-7-or-8)
+
+NetBeans -> Tools -> Plugins -> Downloaded -> Add Plugins... -> Open -> Install -> Restart IDE

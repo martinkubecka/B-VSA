@@ -5,27 +5,42 @@
 **How to create a new project?**
  
 > File -> New Project -> Java - Java Application
+> 
 > Click **Next** -> Set Project name -> Click **Finish** 
 
 **How to start a database service and create a new table?**
 
 > Navigate to Services -> Databases -> Double click on *jdbc*
+> 
 > Authenticate with app:app
+> 
 > Click on **APP** -> Right click on  **Tables**  -> Create Table
 
 *NOTE : After editing table values inside **View Table**, press **Commit Record(s)** button*
 
 **How to add missing ClientDriver?**
 > Inside your project right click on the **Libraries**
+> 
 > Choose **Add Library**
+> 
 > Find ***Java DB Driver*** and press **Add Library**
 
 **How to add Persistence Unit?**
 > Right click on the **Source Packages**
+> 
 > New -> Other
+> 
 > Persistence ->  Persistence Unit
+> 
 > Database Connection : jdbc:derby://
+> 
 > Choose **Table Generation Strategy**
+
+**How to view the SQL queries issued by JPA?**
+
+> Add the line below to your *persistance.xml*
+> 
+> `<property name="eclipselink.logging.level" value="FINE"/>`
 
 ---
 ### Modifikácia údajov DB
@@ -36,8 +51,11 @@
 4. Add Persistence Unit
 
 > **IMPORTANT !!!**
+> 
 > Don't forget to add the line below to *persistence.xml*
+> 
 > `<class>firstproject.Kniha</class>`
+> 
 > This will set relation between your database and your entity class
 
 ---
