@@ -1,4 +1,4 @@
-# Vývoj softvérových aplikácií
+# Vývoj Softvérových Aplikácií
 
 [Homepage](https://uim.fei.stuba.sk/predmet/b-vsa/) | [Wiki](http://www.kaivt.elf.stuba.sk/Predmety/B-VSA) | [Youtube](https://youtube.com/playlist?list=PLQfMtPjiSM4s3W3Tixaj8Hirw_njwUelh)
 
@@ -18,7 +18,6 @@
 - Named query
 - Metódy entity managera
 - JPA kontroler
-- Swing DB aplikácia
 
 4\. týždeň
 - Zápočet
@@ -78,3 +77,16 @@
 
 [12. týždeň](https://dzone.com/articles/hypermedia-support-in-jax-rs-20)
 - REST+JPA
+
+---
+## Staré zápočty
+
+Riešenie zápočtu 2018 [skupina A](https://github.com/martinkubecka/B-VSA/tree/main/Z%C3%A1po%C4%8Dty/CV3testA) by [benzorobenzo](https://github.com/georgeHeishi)
+
+
+---
+## NetBeans 8.1 Darcula Theme
+
+Download [here](http://plugins.netbeans.org/plugin/62424/darcula-laf-for-netbeans)
+
+NetBeans -> Tools -> Plugins -> Downloaded -> Add Plugins... -> Open -> Install -> Restart IDE
