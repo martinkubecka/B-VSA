@@ -81,7 +81,8 @@
 ---
 ## Staré zápočty
 
-Riešenie zápočtu 2018 [skupina A](https://github.com/martinkubecka/B-VSA/tree/main/Z%C3%A1po%C4%8Dty/CV3testA) by [benzorobenzo](https://github.com/georgeHeishi)
+Riešenie 1. zápočtu z 2018 [skupina A](https://github.com/martinkubecka/B-VSA/tree/main/Zapocty/Zadanie2018A/src) a [skupina B](https://github.com/martinkubecka/B-VSA/tree/main/Zapocty/Zadanie2018B/src)
+Riešenie 1. zápočtu z (asi) 2017 [tu](https://github.com/martinkubecka/B-VSA/tree/main/Zapocty/Zadanie2017/src)
 
 
 ---

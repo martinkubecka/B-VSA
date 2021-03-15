@@ -84,8 +84,6 @@ public class Projekt2 {
 
 > Do triedy **Projekt2** pridajte metódu **Long addPerson(String meno)** , ktorá vytvorí novú osobu so zadaným menom, vloží ju do databázy a vráti vygenerovaný kľúč.
 
-> Do triedy **Projekt2** pridajte metódu **Long addPerson(String meno)** , ktorá vytvorí novú osobu so zadaným menom, vloží ju do databázy a vráti vygenerovaný kľúč.
-
 > Do triedy **Projekt2** pridajte metódu **Person findPerson(Long id)** , ktorá pomocou metódy entity-managera **find** v DB vyhľadá osobu podľa id.
 
 
