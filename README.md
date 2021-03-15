@@ -18,7 +18,6 @@
 - Named query
 - Metódy entity managera
 - JPA kontroler
-- Swing DB aplikácia
 
 4\. týždeň
 - Zápočet
