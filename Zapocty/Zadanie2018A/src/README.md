@@ -51,8 +51,8 @@ Odporúčania a návody:
 ```java
 	String line;
 	BufferedReader br = new BufferedReader(new FileReader(filename));
-while ((line = br.readLine()) != null) {
-	   String s[] = line.split(";");
+	while ((line = br.readLine()) != null) {
+   		String s[] = line.split(";");
                 ...
 ```
 •	Pre odstránenie prázdnych znakov použite reťazcovú metódu str.trim().
