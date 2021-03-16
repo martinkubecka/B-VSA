@@ -8,12 +8,8 @@ Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
 ---
 
 ## Zápočet z roku 2018 
--dostupný na: http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/CV3testA
 
-Príklad dat na testovanie: http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/CV3testA?action=AttachFile&do=view&target=data.csv
-
-```
-Implementačná úloha
+### Implementačná úloha
 
 Vytvorte nový java aplication projekt s názvom uloha1.
 Pozn. Netbeans vám v projekte vytvorí balík uloha1 a v ňom triedu Uloha1.
@@ -52,11 +48,13 @@ Nezabudnite:
 
 Odporúčania a návody: 
 •	Ukážka čítania parsovania csv-súboru:
+```java
 	String line;
 	BufferedReader br = new BufferedReader(new FileReader(filename));
 while ((line = br.readLine()) != null) {
 	   String s[] = line.split(";");
                 ...
+```
 •	Pre odstránenie prázdnych znakov použite reťazcovú metódu str.trim().
 •	Pre konverziu reťazca na hodnotu double použite: 
 double d = Double.parseDouble(str);
@@ -72,4 +70,4 @@ Pokyny pre odovzdanie.
 Odovzdávajú sa do AISu dva zdrojové súbory:
 •	Uloha1.java
 •	Tovar.java
-```
+
