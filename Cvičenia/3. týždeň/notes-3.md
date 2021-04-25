@@ -50,7 +50,7 @@ em.getTransaction().commit();
 
 ### Úloha 2.
 
-[V úlohe 6 na cvičení 2](http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/CV2#A.2BANo-loha6.) sme implementovali viaceré metódy, ktoré vyhľadávajú rôzne informácie o osobách pomocou **NativeQuery** (SQL). 
+[V úlohe 6 na cvičení 2](https://github.com/martinkubecka/B-VSA/blob/main/Cvi%C4%8Denia/2.%20t%C3%BD%C5%BEde%C5%88/notes-2.md#%C3%BAloha-6) sme implementovali viaceré metódy, ktoré vyhľadávajú rôzne informácie o osobách pomocou **NativeQuery** (SQL). 
 
 > Modifikujte **Projekt2** tak, že tieto metódy implementujete s použitím **JPQLQuery**.
 

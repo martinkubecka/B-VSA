@@ -27,14 +27,23 @@
 [6. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/6.%20t%C3%BD%C5%BEde%C5%88/notes-6.md)
 
 [7. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/7.%20t%C3%BD%C5%BEde%C5%88/notes-7.md)
+- Prvý RESTful servis
+- GET, PUT, Jersey knižnica, resource life-cycle
+- Java klientov pre REST servis
+- Dokument ako resource
 
 [8. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/8.%20t%C3%BD%C5%BEde%C5%88/notes-8.md)
+- RESTful servis jedálne
 
 [9. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/9.%20t%C3%BD%C5%BEde%C5%88/notes-9.md)
+- RESTful servis s dátovými objektami
+- RESTful servis jedálne – application/xml
 
 [10. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/10.%20t%C3%BD%C5%BEde%C5%88/notes-10.md)
+- SAX parser
 
-[11. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/11.%20t%C3%BD%C5%BEde%C5%88/notes-11.md)
+11\. týždeň
+- Zápočet
 
 [12. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/12.%20t%C3%BD%C5%BEde%C5%88/notes-12.md)
 
@@ -81,8 +90,8 @@
 ---
 ## Staré zápočty
 
-Riešenie 1. zápočtu z 2018 [skupina A](https://github.com/martinkubecka/B-VSA/tree/main/Zapocty/Zadanie2018A/src) a [skupina B](https://github.com/martinkubecka/B-VSA/tree/main/Zapocty/Zadanie2018B/src)
-Riešenie 1. zápočtu z (asi) 2017 [tu](https://github.com/martinkubecka/B-VSA/tree/main/Zapocty/Zadanie2017/src)
+- Riešenie 1. zápočtu z 2018 [skupina A](https://github.com/martinkubecka/B-VSA/tree/main/Zapocty/Zadanie2018A/src) a [skupina B](https://github.com/martinkubecka/B-VSA/tree/main/Zapocty/Zadanie2018B/src)
+- Riešenie 1. zápočtu z (asi) 2017 [tu](https://github.com/martinkubecka/B-VSA/tree/main/Zapocty/Zadanie2017/src)
 
 
 ---

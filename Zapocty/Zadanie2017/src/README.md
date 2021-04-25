@@ -24,10 +24,10 @@ Pomôcka pre čítanie a parsovanie súboru:
 String line;
 BufferedReader br = new BufferedReader(new FileReader("/home/igor/Downloads/data1.csv"));
 while ((line = br.readLine()) != null) {
-	String s\[\] = line.split(";");
+	String s[] = line.split(";");
 	if (s.length < 3) {
 		System.out.println("kratky riadok");
 		return;
 	}
-    String  nazov = s\[0\].trim();
+    String  nazov = s[0].trim();
 ```

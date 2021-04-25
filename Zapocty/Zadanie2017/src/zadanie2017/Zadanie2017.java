@@ -16,6 +16,10 @@ public class Zadanie2017 {
     public static void main(String[] args) {
         
         BufferedReader br = null;
+		
+		EntityManagerFactory emf = Persistence.createEntityManagerFactory("Zadanie2017PU");
+        EntityManager em = emf.createEntityManager();
+		
         try {
             String line;
             br = new BufferedReader(new FileReader("/home/vsa/Downloads/data1.csv"));
@@ -29,11 +33,9 @@ public class Zadanie2017 {
                 String nazov = s[0].trim();
                 String autor = s[1].trim();
                 String pocet = s[2].trim();
-                
-                EntityManagerFactory emf = Persistence.createEntityManagerFactory("Zadanie2017PU");
-                EntityManager em = emf.createEntityManager();
-                
+                  
                 TKniha tempKniha = em.find(TKniha.class, nazov);
+				
                 if (tempKniha == null){
                     
                     TKniha kniha = new TKniha();
