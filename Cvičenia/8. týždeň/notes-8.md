@@ -385,6 +385,79 @@ Implementujte metódy:
 -   DELETE pre URI slovnik/{lang}- odstráni celý prekladový slovník pre daný jazyk
 -   DELETE pre URI slovnik/{lang}/{word}- odstráni preklad slova zo slovníka daného jazyka
 
+Vypracoval [Viliam](https://github.com/V1l1am). 
+
 ```java
-// TODO
+@Singleton
+@Path("slovnik")
+public class GenericResource {
+
+    @Context
+    private UriInfo context;
+
+    private Map<String, Map<String,String>> slovnik;
+    
+    public GenericResource() {
+        Map<String,String> svk = new HashMap<>();
+        svk.put("dog", "pes");
+        svk.put("cat", "macka");
+        Map<String,String> pl = new HashMap<>();
+        pl.put("exorcist", "egzorcysta");
+        slovnik = new HashMap<>();
+        slovnik.put("PL", pl);
+        slovnik.put("SVK", svk);
+    }
+
+    
+    @GET
+    @Produces(MediaType.TEXT_PLAIN)
+    public String getAll() {
+        String ret = "";
+        for (Map.Entry<String, Map<String, String>> entry : slovnik.entrySet()) {
+            ret =ret+ entry.getKey()+", ";
+            
+        }
+        return ret;
+    }
+    
+    
+    @GET
+    @Path("{lang}/{word}")
+    @Produces(MediaType.TEXT_PLAIN)
+    public String getWord(@PathParam("lang") String lang, @PathParam("word") String word) {
+        if(!slovnik.containsKey(lang))
+            return null;
+        Map<String, String> mapa = slovnik.get(lang);
+        if(!mapa.containsKey(word))
+            return null;
+        return mapa.get(word);
+    }
+    
+    @PUT
+    @Path("{lang}/{word}")
+    @Consumes(MediaType.TEXT_PLAIN)
+    public void putWord(@PathParam("lang") String lang, @PathParam("word") String word, String content) {
+        if(!slovnik.containsKey(lang)){
+            Map<String, String> tmp = new HashMap<>();
+            slovnik.put(lang, tmp);
+        }
+        Map<String, String> mapa = slovnik.get(lang);
+        mapa.put(word, content);
+    }
+    
+    @DELETE
+    @Path("{lang}")
+    public void removeSlovnik(@PathParam("lang") String lang) {
+        slovnik.remove(lang);
+    }
+    
+    @DELETE
+    @Path("{lang}/{word}")
+    public void removePreklad(@PathParam("lang") String lang, @PathParam("word") String word) {
+        if(!slovnik.containsKey(lang))
+            return;
+        Map<String, String> mapa = slovnik.get(lang);
+        mapa.remove(word);
+    }
+}
 ```
