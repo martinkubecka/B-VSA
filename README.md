@@ -103,8 +103,8 @@
 
 ### 2021
 
-- Riešenie 1. zápočtu [tu]()
-- Riešenie 2. zápočtu [tu]()
+- Riešenie 1. zápočtu [tu](https://github.com/martinkubecka/B-VSA/blob/main/Zapocty/Zadanie2021-1/Zapocet-1-2021.md)
+- Riešenie 2. zápočtu [tu](https://github.com/martinkubecka/B-VSA/blob/main/Zapocty/Zadanie2021-2/Zapocet-2-2021.md)
 
 ---
 ## NetBeans 8.1 Darcula Theme
