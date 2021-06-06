@@ -101,6 +101,11 @@
 
 - Skúška 2020 úloha 2 + 3 [tu]()
 
+### 2021
+
+- Riešenie 1. zápočtu [tu]()
+- Riešenie 2. zápočtu [tu]()
+
 ---
 ## NetBeans 8.1 Darcula Theme
 
