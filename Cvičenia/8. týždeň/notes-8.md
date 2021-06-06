@@ -8,7 +8,7 @@ kde n je poradové číslo jedla v ponuke, pričom jedlá sú číslované za se
 ### Prvá časť
 
 - Pre URL ponuky dňa menu implementujte metódy:
-	- **GET** pre MIME text/plain: vráti aktuálny počet jedál v menu .
+	- **GET** pre MIME text/plain: vráti aktuálny počet jedál v menu.
 	- **POST** pre MIME text/plain: pridá nové jedlo do menu.
 
 - Pre URL jedla `menu/{n}` implementujte metódy:

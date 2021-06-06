@@ -3,6 +3,11 @@
 [Homepage](https://uim.fei.stuba.sk/predmet/b-vsa/) | [Wiki](http://www.kaivt.elf.stuba.sk/Predmety/B-VSA) | [Youtube](https://youtube.com/playlist?list=PLQfMtPjiSM4s3W3Tixaj8Hirw_njwUelh)
 
 ---
+## Dôležité ku skúške
+
+- [Anotácie](http://www.kaivt.elf.stuba.sk/Predmety/B-VSA/JPA-anotacie)
+
+---
 ## Cvičenia
 
 [1. týždeň](https://github.com/martinkubecka/VSA/blob/main/Cvi%C4%8Denia/1.%20t%C3%BD%C5%BEde%C5%88/notes-1.md)
@@ -88,11 +93,13 @@
 - REST+JPA
 
 ---
-## Staré zápočty
+## Staré zápočty a skúšky
 
 - Riešenie 1. zápočtu z 2018 [skupina A](https://github.com/martinkubecka/B-VSA/tree/main/Zapocty/Zadanie2018A/src) a [skupina B](https://github.com/martinkubecka/B-VSA/tree/main/Zapocty/Zadanie2018B/src)
+
 - Riešenie 1. zápočtu z (asi) 2017 [tu](https://github.com/martinkubecka/B-VSA/tree/main/Zapocty/Zadanie2017/src)
 
+- Skúška 2020 úloha 2 + 3 [tu]()
 
 ---
 ## NetBeans 8.1 Darcula Theme
