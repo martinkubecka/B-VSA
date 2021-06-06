@@ -99,7 +99,7 @@
 
 - Riešenie 1. zápočtu z (asi) 2017 [tu](https://github.com/martinkubecka/B-VSA/tree/main/Zapocty/Zadanie2017/src)
 
-- Skúška 2020 úloha 2 + 3 [tu]()
+- Skúška 2020 úloha 2 + 3 [tu](https://github.com/martinkubecka/B-VSA/blob/main/Skusky/2020/uloha-2-3/uloha-2-3.md)
 
 ### 2021
 
